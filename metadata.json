@@ -1,0 +1,7 @@
+{
+  "name": "EduReach",
+  "description": "Agentic College Chatbot Platform with JWT Authentication and gated content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
